@@ -8,7 +8,7 @@
 
 This repository contains the implementation of the following paper:
 > **Stochastic Geometrically Exact Beam: Continuous-Time Geometric Principles and Variational Discretizations**<br>
-> [Minghang Du] and [François Gay-Balmaz](https://francoisgaybalmaz.github.io) and [Tianzhi Li](https://tianzhi-li.github.io/) and [Donghua Shi](https://scholar.google.com/citations?hl=zh-CN&user=szJq95oAAAAJ&view_op=list_works)<br>
+> [Minghang Du]() and [François Gay-Balmaz](https://francoisgaybalmaz.github.io) and [Tianzhi Li](https://tianzhi-li.github.io/) and [Donghua Shi](https://scholar.google.com/citations?hl=zh-CN&user=szJq95oAAAAJ&view_op=list_works)<br>
 
 From **BIT**, **NTU**, and **PKU**
 
