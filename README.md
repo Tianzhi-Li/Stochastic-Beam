@@ -3,7 +3,7 @@
 *Project Page*: https://tianzhi-li.github.io/Stochastic-Beam/
 
 
-[![Paper (in preparation)](https://img.shields.io/badge/cs.CV-Paper-b31b1b?logo=arxiv&logoColor=red)]
+[![Paper (in preparation)](https://img.shields.io/badge/cs.CV-Paper-b31b1b?logo=arxiv&logoColor=red)]()
 [![Project Page](https://img.shields.io/badge/Project-Website-b31b1b?logo=googlechrome&logoColor=red)](https://tianzhi-li.github.io/Stochastic-Beam/)
 
 This repository contains the implementation of the following paper:
