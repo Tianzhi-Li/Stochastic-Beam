@@ -1,4 +1,4 @@
-# Stochastic Geometrically Exact Beam
+# Stochastic Geometrically Exact Beams
 
 *Project Page*: https://tianzhi-li.github.io/Stochastic-Beam/
 
