@@ -20,9 +20,9 @@ From **[BIT](https://english.bit.edu.cn/)**, **[NTU](https://www.ntu.edu.sg/)**,
 
    ```bibtex
    @article{DGLS26,
-            title={Stochastic geometrically exact beam: Continuous-time geometric principles and variational discretizations},
+            title={Stochastic geometrically exact beams: Continuous-time geometric principles and variational discretizations},
             author={Minghang, Du and Fran\c{c}ois, Gay-Balmaz and Tianzhi, Li and Donghua, Shi},
-            journal={In preparation},
+            journal={Submitted},
             year={2026}
    }
    ```
